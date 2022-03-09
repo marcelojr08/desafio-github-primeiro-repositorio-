@@ -1,0 +1,8 @@
+## Passos já concluídos para a carreira até o momento
+
+- Ingressar na Faculdade (Análise e Desenvolvimento de Sistemas)
+- Começar no BootCamp da DIO (GFT Start #4 Java)
+- Criar uma conta no Linkedin
+- Criar uma conta no Github
+- Baixar e instalar o Git
+- ...
